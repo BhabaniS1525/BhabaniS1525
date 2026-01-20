@@ -15,10 +15,10 @@
 
 [![Languages](https://skillicons.dev/icons?i=cs,py,md,git,gitlab,github,bitbucket,bash,powershell,aws,azure,linux,windows,mysql,dotnet,ansible,docker,githubactions,jenkins,kubernetes,maven,nginx,prometheus,grafana,terraform,vscode)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BhabaniS1525&show_icons=true&locale=en&layout=compact" alt="BhabaniS1525" /></p>
+### GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BhabaniS1525&show_icons=true&locale=en" alt="BhabaniS1525" /></p>
+![Commits](https://nirzak-streak-stats.vercel.app/?user=BhabaniS1525&theme=dark&hide_border=false)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BhabaniS1525&" alt="BhabaniS1525" /></p>
+[![Bhabani's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhabaniS1525&theme=dark&show_icons=true)](https://github.com/BhabaniS1525/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/BhabaniS1525?template=classic&calendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)
+![Most languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=BhabaniS1525&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
