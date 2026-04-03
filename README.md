@@ -5,13 +5,12 @@
 <div align="center">
   
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+I'm+Bhabani+Shankar+Sahoo;DevOps+Engineer+%7C+4%2B+Years+Experience;Kubernetes+%7C+Azure+%7C+CI%2FCD+Expert;Building+Scalable+Cloud+Infrastructure;Automating+Everything+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=330&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&height=40&lines=Hi+%F0%9F%91%8B+I'm+Bhabani+Shankar+Sahoo;A+Passionate+DevOps+Engineer)](https://git.io/typing-svg)
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 About Me
+## 🚀 About Me
 
 **DevOps Engineer** passionate about cloud automation and infrastructure excellence
 
