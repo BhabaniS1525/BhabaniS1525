@@ -5,28 +5,25 @@
 <div align="center">
   
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=330&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&height=40&lines=Hi+%F0%9F%91%8B+I'm+Bhabani+Shankar+Sahoo;A+Passionate+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=330&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Bhabani+Shankar+Sahoo;A+Passionate+DevOps+Engineer)](https://git.io/typing-svg)
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
 
-**DevOps Engineer** passionate about cloud automation and infrastructure excellence
+I'm a **DevOps Engineer**
 
-- 🔭 **Current Focus**: CI/CD automation & cloud reliability
-- 🌱 **Learning**: Cloud architecture, GitOps, ArgoCD
-- 💼 **Experience**: 4+ years at Infosys
-- 🎯 **Specialization**: Kubernetes, Azure, Terraform, Jenkins
-- 👥 **Impact**: Managing infrastructure for **650+ users** across **150+ instances**
-- 💬 **Ask me about**: CI/CD pipelines, IaC, DevOps best practices
-- ⚡ **Fun fact**: I automate manual tasks for fun!
+🔭 **Working on** CI/CD automation and cloud reliability
+🌱 **Learning** cloud architecture, GitOps, DevSecOps and AI
+👯 **Open to** cloud-native and open-source collaborations
+🤝 **Seeking** help to grow
+💬 **Ask me about** CI/CD, IaC, and DevOps
+⚡ **Fun fact** I automate manual tasks for fun!
 
 <br clear="right"/>
 
----
-
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   
@@ -34,38 +31,7 @@
 
 </div>
 
----
-
-### 💼 Key Achievements
-
-<table>
-<tr>
-<td width="50%">
-
-**🚀 Performance Improvements**
-
-- ⚡ **42%** faster deployment time
-- 📈 **40%** improved system reliability
-- 🔄 **69%** faster resource provisioning
-- 🎯 **52%** reduced incident response time
-
-</td>
-<td width="50%">
-
-**📊 Scale & Impact**
-
-- 👥 Serving **650+ users**
-- 🖥️ Managing **150+ instances**
-- ⏱️ Saved **30+ hours/month** via automation
-- ✅ Achieved **zero data loss**
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="left">
 
@@ -87,17 +53,15 @@
 
 #### 💻 Languages & Scripting
 
-[![Languages](https://skillicons.dev/icons?i=python,bash,powershell,cs&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,bash,powershell&theme=dark)](https://skillicons.dev)
 
 #### 🔧 Version Control & Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,maven,nginx,mysql,dotnet&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,maven,nginx,mysql&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
-
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhabaniS1525&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -108,15 +72,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhabaniS1525&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
----
-
-### 📈 Activity Graph
+## 📈 Activity Graph
 
 [![Bhabani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BhabaniS1525&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhabaniS1525/BhabaniS1525/output/github-snake-dark.svg" />
@@ -124,9 +84,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/BhabaniS1525/BhabaniS1525/output/github-snake.svg" />
 </picture>
 
----
-
-### 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <div align="center">
 
@@ -134,33 +92,7 @@
 
 </div>
 
----
-
-### 🎯 Current Focus Areas
-
-```yaml
-role: DevOps Engineer
-company: Infosys
-experience: 4+ years
-specialization:
-  - Cloud Native Architecture
-  - CI/CD Pipeline Optimization
-  - Kubernetes Orchestration
-  - Infrastructure as Code
-learning:
-  - GitOps with ArgoCD
-  - Advanced Kubernetes Patterns
-  - DevSecOps Practices
-  - Cloud Cost Optimization
-open_to:
-  - Cloud Native Projects
-  - Open Source Collaborations
-  - DevOps Consulting
-```
-
----
-
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -170,9 +102,7 @@ open_to:
 
 </div>
 
----
-
-### 📊 Profile Stats
+## 📊 Profile Stats
 
 <div align="center">
 
@@ -182,9 +112,7 @@ open_to:
 
 </div>
 
----
-
-### 🎨 Contribution Metrics
+## 🎨 Contribution Metrics
 
 <div align="center">
 
@@ -192,20 +120,9 @@ open_to:
 
 </div>
 
----
-
-### 🌟 GitHub Contributions (3D)
+## 🌟 GitHub Contributions (3D)
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
 
@@ -214,18 +131,6 @@ open_to:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
-
-<div align="center">
-
-### 🎵 Coding Vibes
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=3)
-
-</div>
-
----
 
 <div align="center">
   
