@@ -78,10 +78,12 @@ I'm a **DevOps Engineer**
 
 ## 🐍 Contribution Snake
 
+![snake-svg](https://github.com/BhabaniS1525/BhabaniS1525/blob/output/github-contribution-grid-snake.svg)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhabaniS1525/BhabaniS1525/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhabaniS1525/BhabaniS1525/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BhabaniS1525/BhabaniS1525/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BhabaniS1525/BhabaniS1525/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BhabaniS1525/BhabaniS1525/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/BhabaniS1525/BhabaniS1525/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 💻 Most Used Languages
